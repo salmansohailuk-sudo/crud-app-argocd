@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backend-config
+  namespace: crud-app
+data:
+  DB_HOST: "database-1.c3oyek2auddx.us-west-2.rds.amazonaws.com"
