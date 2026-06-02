@@ -4,4 +4,4 @@ metadata:
   name: backend-config
   namespace: crud-app
 data:
-  DB_HOST: "database-1.c3oyek2auddx.us-west-2.rds.amazonaws.com"
+  DB_HOST: "database-1.cwz2gqgyw030.us-east-1.rds.amazonaws.com"
